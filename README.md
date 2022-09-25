@@ -1,13 +1,16 @@
+## Ranek
 
 [Funcionalidades](#funcionalidades-checkered_flag) | [Tecnologias](#tecnologias-computer) | [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
 ### Descrição do Projeto :star:
 
-Mini projeto em React, consumindo uma API de produtos.
+Projeto desenvolvido no curso de ReactJS da origamid.
 
 ![ranek_web](https://user-images.githubusercontent.com/98993736/191195576-a05930db-8688-4faf-8298-55c884c799d7.png)
 
 ![ranek_mobile](https://user-images.githubusercontent.com/98993736/191195867-316352f8-2e0a-45e6-a12e-f76d97900511.png)
+
+> Status do Projeto: Concluido :heavy_check_mark:
 
 ### Funcionalidades :checkered_flag:
 
